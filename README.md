@@ -431,7 +431,7 @@ This project is part of Smart Bank Elite System.
 ## 👤 Author
 
 - **Developer**: Anshu Singh
-- **Email**: singh.anshu.rajdev@example.com
+- **Email**: singh.anshu.rajdev@gmail.com
 - **GitHub**: [singh-anshu-rajdev](https://github.com/singh-anshu-rajdev)
 
 ## 📞 Support
