@@ -12,7 +12,6 @@ public class GatewayUtils {
 
     private static final ObjectMapper OBJECT_MAPPER = new ObjectMapper();
 
-    // Problem Details POJO
     public static class ProblemDetail {
         public String type;
         public String title;
